@@ -1,0 +1,58 @@
+header{
+    color: blue;
+    font-family: 'Licorice', cursive;
+    background-color: red;
+}
+footer{
+    background-color:rgb(207, 219, 241);
+}
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.barra{
+    font-size: 35px;
+    color: coral ;
+    font-family: serif;
+
+}
+.contenedor{
+    padding: 5px 10px 5px;
+    margin: 25px;
+    border-width: 3px;
+    border-style: ridge;
+    border-color: chocolate;
+    background-color: whitesmoke;
+}
+.contenedor2{
+    padding: 2px;
+margin: 10px;
+border-width: 3px;
+border-style: ridge;
+border-color: chocolate;
+}
+.float{
+    min-width: none;
+    max-width: none;
+}
+.nav {
+display: flex;
+justify-content: center;
+}
+.barra a:link{
+    color: blueviolet;
+    background-color: aqua;
+}
+.barra a:visited{
+    color: red ;
+    background-color : crimson;
+}
+.barra a:active{
+    color:yellow;
+    background-color: grey ;
+}

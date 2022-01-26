@@ -1,0 +1,18 @@
+header{
+    color: blue;
+    font-family: 'Licorice', cursive;
+    background-color: red;
+}
+nav{
+    color: coral ;
+    font-family: 'Calistoga', cursive;
+}
+footer{
+    background-color:rgb(207, 219, 241);
+}
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

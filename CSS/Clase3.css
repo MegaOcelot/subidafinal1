@@ -1,0 +1,13 @@
+h1{
+    color: crimson;
+    font-size: 60;
+    background-color: lawngreen;
+}
+body{
+    background-image: url(../Img/stellaris.jfif);
+    background-size: cover;
+}
+/*podes usar background-repeat: no-repeat; , y background-size: contain ; es parecido al cover pero fuerza mas a la imagen(el "original" es background-size: cover ;*/
+span{
+    color: lightblue; /* esto es para palabras singulares, o sea NO una oracion entera, tambien podes usar html colores que te deja hacer un color, y pones el comando rgb despues de color:, pones red, green, blue y despues pones los numeros de la pagina O podes poner el numero con #*/
+}
